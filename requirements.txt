@@ -1,5 +1,7 @@
 # AI/ML - Google Gemini API
 google-generativeai==0.3.2        # Google Gemini API for reasoning
+python-dotenv==1.0.0              # Environment variable managemen# AI/ML - Google Gemini API
+google-generativeai==0.3.2        # Google Gemini API for reasoning
 python-dotenv==1.0.0              # Environment variable management
 
 # Speech Services - Google Cloud
@@ -8,17 +10,13 @@ google-cloud-texttospeech==2.17.2 # Text-to-Speech (Telugu)
 google-auth==2.35.0               # Google Cloud authentication
 google-api-core==2.19.0           # Core API library
 
-# Audio Processing - SoundDevice (PyAudio Replacement)
-sounddevice==0.5.1                # Audio I/O (Python 3.12 compatible!)
-soundfile==0.12.1                 # Audio file I/O
-numpy==1.26.4                     # Numerical operations
-
 # Web Framework
 flask==3.0.0                      # Web server
 flask-cors==4.0.0                 # Cross-Origin Resource Sharing
 werkzeug==3.0.0                   # WSGI utilities
 
+# Production Server
+gunicorn==21.2.0                  # WSGI HTTP Server
+
 # Utilities
 requests==2.32.3                  # HTTP requests
-
-gunicorn==21.2.0
