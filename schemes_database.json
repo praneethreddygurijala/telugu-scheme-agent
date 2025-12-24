@@ -1,0 +1,341 @@
+{
+  "schemes": [
+    {
+      "id": "EDU001",
+      "name_telugu": "పోస్ట్ మ్యాట్రిక్ స్కాలర్‌షిప్",
+      "name_english": "Post-Matric Scholarship for SC/ST/BC Students",
+      "category": "education",
+      "scheme_type": "state",
+      "state": "Telangana",
+      "description_telugu": "10వ తరగతి తర్వాత చదువుకునే విద్యార్థులకు స్కాలర్‌షిప్",
+      "description_english": "Scholarship for students studying after 10th standard",
+      "benefits": "సంవత్సరానికి ₹15,000 నుండి ₹50,000 వరకు",
+      "eligibility": {
+        "age_min": 14,
+        "age_max": 25,
+        "occupation": ["student"],
+        "income_max": 200000,
+        "state": "Telangana",
+        "documents_required": ["aadhar", "income_certificate", "caste_certificate", "marks_sheet"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "telanganaepass వెబ్‌సైట్‌లో రజిస్టర్ చేసుకోండి",
+          "విద్యార్థి వివరాలు నమోదు చేయండి",
+          "మార్కు షీట్ మరియు ఆదాయ ధృవీకరణ అప్‌లోడ్ చేయండి",
+          "స్కూల్ ప్రిన్సిపాల్ ద్వారా ధృవీకరించండి"
+        ],
+        "online_url": "https://telanganaepass.cgg.gov.in",
+        "offline_location": "School Principal Office"
+      }
+    },
+    {
+      "id": "EDU002",
+      "name_telugu": "నేషనల్ మీన్స్ స్కాలర్‌షిప్",
+      "name_english": "National Means-cum-Merit Scholarship",
+      "category": "education",
+      "scheme_type": "central",
+      "state": "All India",
+      "description_telugu": "8వ నుండి 12వ తరగతి విద్యార్థులకు స్కాలర్‌షిప్",
+      "description_english": "Scholarship for class 8 to 12 students",
+      "benefits": "సంవత్సరానికి ₹12,000",
+      "eligibility": {
+        "age_min": 12,
+        "age_max": 18,
+        "occupation": ["student"],
+        "income_max": 150000,
+        "state": "All India",
+        "documents_required": ["aadhar", "income_certificate", "marks_sheet"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "స్కూల్ ద్వారా దరఖాస్తు చేయండి",
+          "NMMS పరీక్ష రాయండి",
+          "ఉత్తీర్ణత తర్వాత స్కాలర్‌షిప్ పొందండి"
+        ],
+        "online_url": "https://scholarships.gov.in",
+        "offline_location": "School Office"
+      }
+    },
+    {
+      "id": "EDU003",
+      "name_telugu": "సుకన్య సమృద్ధి ఖాతా",
+      "name_english": "Sukanya Samriddhi Account",
+      "category": "education",
+      "scheme_type": "central",
+      "state": "All India",
+      "description_telugu": "బాలికల భవిష్యత్ కోసం పొదుపు ఖాతా",
+      "description_english": "Savings account for girl child future",
+      "benefits": "అధిక వడ్డీతో పొదుపు మరియు విద్య ఖర్చులకు మద్దతు",
+      "eligibility": {
+        "age_min": 0,
+        "age_max": 10,
+        "occupation": ["student"],
+        "income_max": null,
+        "gender": "female",
+        "state": "All India",
+        "documents_required": ["birth_certificate", "parents_aadhar", "address_proof"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "సమీప పోస్ట్ ఆఫీస్ లేదా బ్యాంక్‌కు వెళ్ళండి",
+          "సుకన్య ఖాతా తెరవండి",
+          "సంవత్సరానికి కనీసం 250 రూపాయలు జమ చేయండి"
+        ],
+        "online_url": "https://www.india.gov.in/sukanya-samriddhi-yojana",
+        "offline_location": "Bank or Post Office"
+      }
+    },
+    {
+      "id": "SCH001",
+      "name_telugu": "రైతు బంధు",
+      "name_english": "Rythu Bandhu",
+      "category": "agriculture",
+      "scheme_type": "state",
+      "state": "Telangana",
+      "description_telugu": "రైతులకు ప్రతి సీజన్‌కు ఎకరాకు ₹5000 ఆర్థిక సహాయం",
+      "description_english": "Financial assistance of ₹5000 per acre per season for farmers",
+      "benefits": "సంవత్సరానికి ఎకరాకు ₹10,000 (ప్రతి సీజన్‌కు ₹5000)",
+      "eligibility": {
+        "age_min": 18,
+        "age_max": null,
+        "occupation": ["farmer", "agriculture"],
+        "income_max": null,
+        "land_ownership": true,
+        "state": "Telangana",
+        "documents_required": ["aadhar", "land_records", "bank_account"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "గ్రామ సచివాలయంలో దరఖాస్తు చేయండి",
+          "భూ రికార్డులు సమర్పించండి",
+          "ఆధార్ మరియు బ్యాంక్ వివరాల్ అందించండి",
+          "వెరిఫికేషన్ తర్వాత డబ్బు నేరుగా ఖాతాలో జమ అవుతుంది"
+        ],
+        "online_url": "https://www.telangana.gov.in/rythu-bandhu",
+        "offline_location": "Village Secretariat"
+      }
+    },
+    {
+      "id": "SCH005",
+      "name_telugu": "ఆరోగ్యశ్రీ",
+      "name_english": "Aarogyasri",
+      "category": "healthcare",
+      "scheme_type": "state",
+      "state": "Telangana",
+      "description_telugu": "వైద్య చికిత్సకు ఉచిత ఆరోగ్య బీమా",
+      "description_english": "Free health insurance for medical treatment",
+      "benefits": "సంవత్సరానికి ₹5,00,000 వరకు ఉచిత చికిత్స",
+      "eligibility": {
+        "age_min": null,
+        "age_max": null,
+        "occupation": null,
+        "income_max": 500000,
+        "white_ration_card": true,
+        "state": "Telangana",
+        "documents_required": ["aadhar", "ration_card", "income_certificate"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "ఆరోగ్యశ్రీ కార్డు కోసం దరఖాస్తు చేయండి",
+          "రేషన్ కార్డు మరియు ఆధార్ సమర్పించండి",
+          "ఆసుపత్రిలో చేరేటప్పుడు కార్డు చూపించండి",
+          "చికిత్స పూర్తిగా ఉచితం"
+        ],
+        "online_url": "https://aarogyasri.telangana.gov.in",
+        "offline_location": "Aarogyasri Centers"
+      }
+    },
+    {
+      "id": "SCH006",
+      "name_telugu": "కళ్యాణ లక్ష్మి",
+      "name_english": "Kalyana Lakshmi",
+      "category": "social_welfare",
+      "scheme_type": "state",
+      "state": "Telangana",
+      "description_telugu": "పేద కుటుంబాల పిల్లల వివాహానికి ₹1 లక్ష ఆర్థిక సహాయం",
+      "description_english": "Financial assistance for marriage",
+      "benefits": "ప్రతి లబ్ధిదారునికి ₹1,00,116",
+      "eligibility": {
+        "age_min": 18,
+        "age_max": null,
+        "occupation": null,
+        "income_max": 200000,
+        "gender": "female",
+        "marriage": "bride",
+        "state": "Telangana",
+        "documents_required": ["aadhar", "marriage_certificate", "income_certificate", "bank_account"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "ఆన్‌లైన్‌లో లేదా సచివాలయంలో దరఖాస్తు చేయండి",
+          "వివాహ సర్టిఫికేట్ మరియు ఆదాయ ధృవీకరణ అందించండి",
+          "వెరిఫికేషన్ తర్వాత మొత్తం జమ అవుతుంది",
+          "వివాహం తర్వాత 90 రోజుల్లో దరఖాస్తు చేయాలి"
+        ],
+        "online_url": "https://telanganaepass.cgg.gov.in",
+        "offline_location": "Village/Ward Secretariat"
+      }
+    },
+    {
+      "id": "SCH007",
+      "name_telugu": "ఆసర పెన్షన్",
+      "name_english": "Aasara Pension",
+      "category": "social_welfare",
+      "scheme_type": "state",
+      "state": "Telangana",
+      "description_telugu": "వృద్ధులు, విధంతువులు, చేతి కార్మికులకు నెలవారీ పెన్షన్",
+      "description_english": "Monthly pension for elderly, widows, and weavers",
+      "benefits": "నెలకు ₹2,016",
+      "eligibility": {
+        "age_min": 65,
+        "age_max": null,
+        "occupation": ["weaver", "toddy_tapper", "single_woman"],
+        "income_max": null,
+        "state": "Telangana",
+        "documents_required": ["aadhar", "age_proof", "caste_certificate", "bank_account"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "సమీప సచివాలయానికి వెళ్ళండి",
+          "వయస్సు రుజువు మరియు ఆధార్ అందించండి",
+          "కులం ధృవీకరణ పత్రం (అవసరమైతే)",
+          "ప్రతి నెల పెన్షన్ నేరుగా ఖాతాలో జమ అవుతుంది"
+        ],
+        "online_url": "https://telanganaepass.cgg.gov.in",
+        "offline_location": "Village/Ward Secretariat"
+      }
+    },
+    {
+      "id": "SCH008",
+      "name_telugu": "చేనేత మిత్ర",
+      "name_english": "Cheneta Mitra",
+      "category": "employment",
+      "scheme_type": "state",
+      "state": "Telangana",
+      "description_telugu": "చేనేత కార్మికులకు ఉచిత విద్యుత్ మరియు పెన్షన్",
+      "description_english": "Free electricity and pension for handloom weavers",
+      "benefits": "ఉచిత విద్యుత్ మరియు నెలకు ₹2,016 పెన్షన్",
+      "eligibility": {
+        "age_min": 18,
+        "age_max": null,
+        "occupation": ["weaver"],
+        "income_max": null,
+        "state": "Telangana",
+        "documents_required": ["aadhar", "weaver_id", "electricity_connection", "bank_account"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "చేనేత శాఖలో నమోదు చేసుకోండి",
+          "చేనేత కార్మిక గుర్తింపు పత్రం తీసుకరండి",
+          "విద్యుత్ కనెక్షన్ వివరాలు సమర్పించండి",
+          "నెలవారీ పెన్షన్ మరియు విద్యుత్ బిల్లులు మినహాయింపు"
+        ],
+        "online_url": "https://handlooms.telangana.gov.in",
+        "offline_location": "Handloom Department Office"
+      }
+    },
+    {
+      "id": "CENT001",
+      "name_telugu": "ప్రధాన మంత్రి కిసాన్",
+      "name_english": "PM-KISAN",
+      "category": "agriculture",
+      "scheme_type": "central",
+      "state": "All India",
+      "description_telugu": "అన్ని రైతులకు సంవత్సరానికి ₹6000 ప్రత్యక్ష ఆదాయ మద్దతు",
+      "description_english": "Direct income support to all farmers",
+      "benefits": "సంవత్సరానికి ₹6,000 మూడు విడతలలో ఒక్కో విడతకు ₹2000",
+      "eligibility": {
+        "age_min": 18,
+        "age_max": null,
+        "occupation": ["farmer", "agriculture"],
+        "income_max": null,
+        "land_ownership": true,
+        "state": "All India",
+        "documents_required": ["aadhar", "land_records", "bank_account"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "pmkisan వెబ్‌సైట్‌కు వెళ్ళండి",
+          "కొత్త రైతు రిజిస్ట్రేషన్ క్లిక్ చేయండి",
+          "ఆధార్ నంబర్ మరియు భూమి వివరాలు నమోదు చేయండి",
+          "గ్రామ సచివాలయంలో ధృవీకరణ పొందండి"
+        ],
+        "online_url": "https://pmkisan.gov.in",
+        "offline_location": "Village Secretariat"
+      }
+    },
+    {
+      "id": "CENT002",
+      "name_telugu": "ఆయుష్మాన్ భారత్",
+      "name_english": "Ayushman Bharat - PMJAY",
+      "category": "healthcare",
+      "scheme_type": "central",
+      "state": "All India",
+      "description_telugu": "పేద కుటుంబాలకు ₹5 లక్షల వార్షిక ఆరోగ్య బీమా",
+      "description_english": "Health insurance for poor families",
+      "benefits": "కుటుంబానికి సంవత్సరానికి ₹5,00,000 ఆసుపత్రి చికిత్స కోసం",
+      "eligibility": {
+        "age_min": null,
+        "age_max": null,
+        "occupation": null,
+        "income_max": null,
+        "secc_listed": true,
+        "state": "All India",
+        "documents_required": ["aadhar", "ration_card", "secc_certificate"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "mera.pmjay.gov.in లో మీ అర్హత తనిఖీ చేసుకోండి",
+          "సమీప ఆయుష్మాన్ మిత్ర కేంద్రానికి వెళ్ళండి",
+          "ఆధార్ కార్డు మరియు రేషన్ కార్డు తీసుకరండి",
+          "గోల్డెన్ కార్డు తక్షణమే పొందండి"
+        ],
+        "online_url": "https://pmjay.gov.in",
+        "offline_location": "Ayushman Mitra Centers"
+      }
+    },
+    {
+      "id": "CENT003",
+      "name_telugu": "ప్రధాన మంత్రి జన్ ధన్ యోజన",
+      "name_english": "Pradhan Mantri Jan Dhan Yojana",
+      "category": "financial_inclusion",
+      "scheme_type": "central",
+      "state": "All India",
+      "description_telugu": "ఉచిత బ్యాంక్ ఖాతా, రూపే కార్డు, ₹10,000 ఓవర్‌డ్రాఫ్ట్, ₹2 లక్షల ప్రమాద బీమా",
+      "description_english": "Free bank account with benefits",
+      "benefits": "జీరో బ్యాలెన్స్ ఖాతా మరియు ₹10,000 ఓవర్‌డ్రాఫ్ట్ మరియు ₹2,00,000 బీమా",
+      "eligibility": {
+        "age_min": 10,
+        "age_max": null,
+        "occupation": null,
+        "income_max": null,
+        "state": "All India",
+        "documents_required": ["aadhar", "address_proof"]
+      },
+      "application_process": {
+        "steps_telugu": [
+          "సమీప బ్యాంక్ శాఖకు వెళ్ళండి",
+          "ఆధార్ కార్డు మరియు చిరునామా రుజువు తీసుకరండి",
+          "దరఖాస్తు పూరించండి",
+          "రూపే కార్డు మరియు చెక్ బుక్ పొందండి"
+        ],
+        "online_url": "https://pmjdy.gov.in",
+        "offline_location": "Any Bank Branch"
+      }
+    }
+  ],
+  "categories": {
+    "agriculture": "వ్యవసాయం",
+    "education": "విద్య",
+    "social_welfare": "సామాజిక సంక్షేమం",
+    "housing": "గృహనిర్మాణం",
+    "healthcare": "ఆరోగ్యం",
+    "employment": "ఉపాధి",
+    "financial_inclusion": "ఆర్థిక చేరిక"
+  },
+  "scheme_types": {
+    "state": "రాష్ట్ర ప్రభుత్వ పథకం",
+    "central": "కేంద్ర ప్రభుత్వ పథకం"
+  }
+}
